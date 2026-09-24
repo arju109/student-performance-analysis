@@ -12,12 +12,15 @@ Python · pandas · numpy · matplotlib · seaborn · scikit-learn
 UCI Machine Learning Repository — Student Performance Dataset
 
 ## Project Structure
+
+```
 student-performance-analysis/
-├── outputs/ # saved chart images
+├── outputs/              # saved chart images
 ├── student_analysis.ipynb
 ├── student_data.csv
 ├── requirements.txt
 └── README.md
+```
 
 
 ## Key Findings
